@@ -1,0 +1,416 @@
+history ;;
+<type 'unicode'>
+             lastWord захватывать <type 'unicode'> 1
+
+             lastWord динамик <type 'unicode'> 1
+
+             lastWord немного <type 'unicode'> 1
+
+             lastWord супермен <type 'unicode'> 1
+
+             lastWord опять <type 'unicode'> 1
+
+             lastWord сюжет <type 'unicode'> 1
+
+             lastWord хороший <type 'unicode'> 1
+
+             lastWord роман <type 'unicode'> 1
+
+             lastWord слабый <type 'unicode'> 1
+
+             lastWord до <type 'unicode'> 1
+
+             lastWord гера <type 'unicode'> 1
+
+             lastWord без <type 'unicode'> 1
+
+             lastWord ммм <type 'unicode'> 1
+
+             lastWord неожиданность <type 'unicode'> 1
+
+             lastWord герой <type 'unicode'> 1
+
+             lastWord да <type 'unicode'> 1
+
+             lastWord слащавый <type 'unicode'> 1
+
+             lastWord а <type 'unicode'> 1
+
+             lastWord автор <type 'unicode'> 1
+
+             lastWord положительный <type 'unicode'> 1
+
+             lastWord </SENTENCE> <type 'unicode'> 3
+
+             lastWord свое <type 'unicode'> 1
+
+             lastWord бог <type 'unicode'> 1
+
+             lastWord очень <type 'unicode'> 1
+
+             lastWord и <type 'unicode'> 2
+
+             lastWord конец <type 'unicode'> 1
+
+             lastWord не <type 'unicode'> 4
+
+             lastWord голливудский <type 'unicode'> 1
+
+             lastWord развязка <type 'unicode'> 1
+
+             lastWord любить <type 'unicode'> 1
+
+             lastWord приятно <type 'unicode'> 1
+
+             lastWord но <type 'unicode'> 1
+
+             lastWord будто <type 'unicode'> 1
+
+             lastWord сохраняться <type 'unicode'> 1
+
+             lastWord ошибка <type 'unicode'> 1
+
+             lastWord человек <type 'unicode'> 1
+
+             lastWord мальчик <type 'unicode'> 1
+
+             lastWord сомнение <type 'unicode'> 1
+
+             lastWord гибель <type 'unicode'> 1
+
+             lastWord книга <type 'unicode'> 1
+
+             lastWord чем <type 'unicode'> 1
+
+             lastWord живой <type 'unicode'> 1
+
+             lastWord как <type 'unicode'> 1
+
+             lastWord <SENTENCE> <type 'unicode'> 3
+
+             lastWord сам <type 'unicode'> 1
+
+             lastWord порадовать <type 'unicode'> 1
+
+             lastWord совсем <type 'unicode'> 1
+
+             lastWord однозначно <type 'unicode'> 1
+
+             lastWord что <type 'unicode'> 1
+
+             lastWord же <type 'unicode'> 1
+history ;роман сохраняться;
+<type 'unicode'>
+             lastWord до <type 'unicode'> 1
+history ;будто не;
+<type 'unicode'>
+             lastWord очень <type 'unicode'> 1
+history ;немного;
+<type 'unicode'>
+             lastWord слабый <type 'unicode'> 1
+history ;<SENTENCE> опять;
+<type 'unicode'>
+             lastWord же <type 'unicode'> 1
+history ;супермен;
+<type 'unicode'>
+             lastWord без <type 'unicode'> 1
+history ;чем гибель;
+<type 'unicode'>
+             lastWord бог <type 'unicode'> 1
+history ;хороший мальчик;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;захватывать динамик;
+<type 'unicode'>
+             lastWord роман <type 'unicode'> 1
+history ;книга;
+<type 'unicode'>
+             lastWord порадовать <type 'unicode'> 1
+history ;свое герой;
+<type 'unicode'>
+             lastWord </SENTENCE> <type 'unicode'> 1
+history ;сюжет захватывать;
+<type 'unicode'>
+             lastWord динамик <type 'unicode'> 1
+history ;а;
+<type 'unicode'>
+             lastWord живой <type 'unicode'> 1
+history ;автор;
+<type 'unicode'>
+             lastWord как <type 'unicode'> 1
+history ;конец;
+<type 'unicode'>
+             lastWord книга <type 'unicode'> 1
+history ;не голливудский;
+<type 'unicode'>
+             lastWord </SENTENCE> <type 'unicode'> 1
+history ;очень;
+<type 'unicode'>
+             lastWord любить <type 'unicode'> 1
+history ;и;
+<type 'unicode'>
+             lastWord сомнение <type 'unicode'> 1
+
+             lastWord конец <type 'unicode'> 1
+history ;чем;
+<type 'unicode'>
+             lastWord гибель <type 'unicode'> 1
+history ;автор как;
+<type 'unicode'>
+             lastWord будто <type 'unicode'> 1
+history ;не;
+<type 'unicode'>
+             lastWord очень <type 'unicode'> 1
+
+             lastWord голливудский <type 'unicode'> 1
+
+             lastWord однозначно <type 'unicode'> 1
+
+             lastWord слащавый <type 'unicode'> 1
+history ;голливудский;
+<type 'unicode'>
+             lastWord </SENTENCE> <type 'unicode'> 1
+history ;ммм немного;
+<type 'unicode'>
+             lastWord слабый <type 'unicode'> 1
+history ;ошибка и;
+<type 'unicode'>
+             lastWord сомнение <type 'unicode'> 1
+history ;бог автор;
+<type 'unicode'>
+             lastWord как <type 'unicode'> 1
+history ;положительный супермен;
+<type 'unicode'>
+             lastWord без <type 'unicode'> 1
+history ;будто;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;сохраняться до;
+<type 'unicode'>
+             lastWord сам <type 'unicode'> 1
+history ;<SENTENCE> ммм;
+<type 'unicode'>
+             lastWord немного <type 'unicode'> 1
+history ;гибель;
+<type 'unicode'>
+             lastWord бог <type 'unicode'> 1
+history ;человек;
+<type 'unicode'>
+             lastWord да <type 'unicode'> 1
+history ;что гера;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;порадовать;
+<type 'unicode'>
+             lastWord неожиданность <type 'unicode'> 1
+history ;приятно что;
+<type 'unicode'>
+             lastWord гера <type 'unicode'> 1
+history ;однозначно;
+<type 'unicode'>
+             lastWord положительный <type 'unicode'> 1
+history ;неожиданность совсем;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;гибель бог;
+<type 'unicode'>
+             lastWord автор <type 'unicode'> 1
+history ;не однозначно;
+<type 'unicode'>
+             lastWord положительный <type 'unicode'> 1
+history ;и конец;
+<type 'unicode'>
+             lastWord книга <type 'unicode'> 1
+history ;динамик роман;
+<type 'unicode'>
+             lastWord сохраняться <type 'unicode'> 1
+history ;динамик;
+<type 'unicode'>
+             lastWord роман <type 'unicode'> 1
+history ;сюжет;
+<type 'unicode'>
+             lastWord захватывать <type 'unicode'> 1
+history ;опять же;
+<type 'unicode'>
+             lastWord приятно <type 'unicode'> 1
+history ;слабый;
+<type 'unicode'>
+             lastWord чем <type 'unicode'> 1
+history ;совсем не;
+<type 'unicode'>
+             lastWord голливудский <type 'unicode'> 1
+history ;ммм;
+<type 'unicode'>
+             lastWord немного <type 'unicode'> 1
+history ;слащавый;
+<type 'unicode'>
+             lastWord хороший <type 'unicode'> 1
+history ;сомнение а;
+<type 'unicode'>
+             lastWord живой <type 'unicode'> 1
+history ;мальчик не;
+<type 'unicode'>
+             lastWord однозначно <type 'unicode'> 1
+history ;любить;
+<type 'unicode'>
+             lastWord свое <type 'unicode'> 1
+history ;сохраняться;
+<type 'unicode'>
+             lastWord до <type 'unicode'> 1
+history ;ошибка;
+<type 'unicode'>
+             lastWord и <type 'unicode'> 1
+history ;<SENTENCE> но;
+<type 'unicode'>
+             lastWord сюжет <type 'unicode'> 1
+history ;живой;
+<type 'unicode'>
+             lastWord человек <type 'unicode'> 1
+history ;<SENTENCE>;
+<type 'unicode'>
+             lastWord опять <type 'unicode'> 1
+
+             lastWord но <type 'unicode'> 1
+
+             lastWord ммм <type 'unicode'> 1
+history ;совсем;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;не слащавый;
+<type 'unicode'>
+             lastWord хороший <type 'unicode'> 1
+history ;что;
+<type 'unicode'>
+             lastWord гера <type 'unicode'> 1
+history ;сам развязка;
+<type 'unicode'>
+             lastWord </SENTENCE> <type 'unicode'> 1
+history ;не очень;
+<type 'unicode'>
+             lastWord любить <type 'unicode'> 1
+history ;захватывать;
+<type 'unicode'>
+             lastWord динамик <type 'unicode'> 1
+history ;опять;
+<type 'unicode'>
+             lastWord же <type 'unicode'> 1
+history ;живой человек;
+<type 'unicode'>
+             lastWord да <type 'unicode'> 1
+history ;же;
+<type 'unicode'>
+             lastWord приятно <type 'unicode'> 1
+history ;но сюжет;
+<type 'unicode'>
+             lastWord захватывать <type 'unicode'> 1
+history ;и сомнение;
+<type 'unicode'>
+             lastWord а <type 'unicode'> 1
+history ;хороший;
+<type 'unicode'>
+             lastWord мальчик <type 'unicode'> 1
+history ;приятно;
+<type 'unicode'>
+             lastWord что <type 'unicode'> 1
+history ;а живой;
+<type 'unicode'>
+             lastWord человек <type 'unicode'> 1
+history ;как будто;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;гера не;
+<type 'unicode'>
+             lastWord слащавый <type 'unicode'> 1
+history ;слабый чем;
+<type 'unicode'>
+             lastWord гибель <type 'unicode'> 1
+history ;без;
+<type 'unicode'>
+             lastWord ошибка <type 'unicode'> 1
+history ;развязка;
+<type 'unicode'>
+             lastWord </SENTENCE> <type 'unicode'> 1
+history ;слащавый хороший;
+<type 'unicode'>
+             lastWord мальчик <type 'unicode'> 1
+history ;конец книга;
+<type 'unicode'>
+             lastWord порадовать <type 'unicode'> 1
+history ;роман;
+<type 'unicode'>
+             lastWord сохраняться <type 'unicode'> 1
+history ;до;
+<type 'unicode'>
+             lastWord сам <type 'unicode'> 1
+history ;до сам;
+<type 'unicode'>
+             lastWord развязка <type 'unicode'> 1
+history ;немного слабый;
+<type 'unicode'>
+             lastWord чем <type 'unicode'> 1
+history ;без ошибка;
+<type 'unicode'>
+             lastWord и <type 'unicode'> 1
+history ;неожиданность;
+<type 'unicode'>
+             lastWord совсем <type 'unicode'> 1
+history ;герой;
+<type 'unicode'>
+             lastWord </SENTENCE> <type 'unicode'> 1
+history ;да;
+<type 'unicode'>
+             lastWord и <type 'unicode'> 1
+history ;положительный;
+<type 'unicode'>
+             lastWord супермен <type 'unicode'> 1
+history ;свое;
+<type 'unicode'>
+             lastWord герой <type 'unicode'> 1
+history ;бог;
+<type 'unicode'>
+             lastWord автор <type 'unicode'> 1
+history ;гера;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;супермен без;
+<type 'unicode'>
+             lastWord ошибка <type 'unicode'> 1
+history ;книга порадовать;
+<type 'unicode'>
+             lastWord неожиданность <type 'unicode'> 1
+history ;но;
+<type 'unicode'>
+             lastWord сюжет <type 'unicode'> 1
+history ;человек да;
+<type 'unicode'>
+             lastWord и <type 'unicode'> 1
+history ;однозначно положительный;
+<type 'unicode'>
+             lastWord супермен <type 'unicode'> 1
+history ;мальчик;
+<type 'unicode'>
+             lastWord не <type 'unicode'> 1
+history ;сомнение;
+<type 'unicode'>
+             lastWord а <type 'unicode'> 1
+history ;да и;
+<type 'unicode'>
+             lastWord конец <type 'unicode'> 1
+history ;как;
+<type 'unicode'>
+             lastWord будто <type 'unicode'> 1
+history ;сам;
+<type 'unicode'>
+             lastWord развязка <type 'unicode'> 1
+history ;порадовать неожиданность;
+<type 'unicode'>
+             lastWord совсем <type 'unicode'> 1
+history ;любить свое;
+<type 'unicode'>
+             lastWord герой <type 'unicode'> 1
+history ;же приятно;
+<type 'unicode'>
+             lastWord что <type 'unicode'> 1
+history ;очень любить;
+<type 'unicode'>
+             lastWord свое <type 'unicode'> 1

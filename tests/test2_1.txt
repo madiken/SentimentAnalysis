@@ -1,0 +1,382 @@
+<row rownumber="2998">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">138842</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Очень поэтично, похоже на стихотворения в прозе. Особенно хорош "Ирис". Может быть я пристрастна? Описание цветка - бесподобное.
+</value>
+</row>
+<row rownumber="2999">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">5529</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Жаль, что не прочитала эту книгу раньше...
+</value>
+</row>
+<row rownumber="3000">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">50575</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Невероятно позитивная книга! Отношение к жизни этой замечательной женщины заслуживает уважения.
+</value>
+</row>
+<row rownumber="3001">
+<value columnnumber="0">3</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">11672</value>
+<value columnnumber="3">11878</value>
+<value columnnumber="4">Или хирургия, или богословие. Попытка совместить не удалась. От этого автора ожидала большего.
+</value>
+</row>
+<row rownumber="3002">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">111895</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Понравился и фильм по этой пьесе с Васильевой, Купченко и Янковским. Камерный, рождественский. Пьеса более динамична.
+</value>
+</row>
+<row rownumber="3003">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">168121</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Многие оценили это произведение, но никто не оставил отзывов. Может быть это и правильно - лишние слова не нужны. Шедевр!
+</value>
+</row>
+<row rownumber="3004">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">168880</value>
+<value columnnumber="3">20965</value>
+<value columnnumber="4">Читал еще в советские времена в школе, очень понравилось, весь мир высосан не просто из пальца а автор пытается объяснить его и читать описания техники и т.п. очень интересно.
+</value>
+</row>
+<row rownumber="3005">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">68859</value>
+<value columnnumber="3">11878</value>
+<value columnnumber="4">Рекомендую всем друзьям и их детям.Текст - блеск.Герой - ярчайший.Да и все окружение тоже.Булгаков и Зощенко,думаю, искусали локти от зависти.Как вспомню "Морда ты, морда тухлая..."!!! Ну все, пошла перечитывать в сто первый раз.
+</value>
+</row>
+<row rownumber="3006">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">135991</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Совсем не детская сказка, страшная, полная отчаяния, борьбы за существование, боли. Хотя, может быть, дети должны учиться жизни как можно раньше?
+</value>
+</row>
+<row rownumber="3007">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">119558</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Читать обязательно! Более обаятельного безобразника вам не найти.
+</value>
+</row>
+<row rownumber="3008">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">7011</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">Одна из любимых книжек детства.
+</value>
+</row>
+<row rownumber="3009">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">170025</value>
+<value columnnumber="3">20965</value>
+<value columnnumber="4">Отличная книга для любителей фантастики в жанре альтернативной истории.
+</value>
+</row>
+<row rownumber="3010">
+<value columnnumber="0">8</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">50981</value>
+<value columnnumber="3">11878</value>
+<value columnnumber="4">Когда меня одолевает ностальгия по шестидесятым годам и приходит желание пообщаться с настоящей советской интеллигенцией - открываю "Незнайку". Слава Носову за этот бессмертный музей - заповедник...
+</value>
+</row>
+<row rownumber="3011">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">169185</value>
+<value columnnumber="3">17607</value>
+<value columnnumber="4">это одна из ГЛАВНЫХ книг
+</value>
+</row>
+<row rownumber="3012">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">3472</value>
+<value columnnumber="3">21469</value>
+<value columnnumber="4">Было интересно читать, под конец даже спать не мог лечь, пока не дочитывал главу.
+</value>
+</row>
+<row rownumber="3013">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">44462</value>
+<value columnnumber="3">21469</value>
+<value columnnumber="4">Интересно написанно, только концовка почему-то показалась смазаной.
+</value>
+</row>
+<row rownumber="3014">
+<value columnnumber="0">7</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">1859</value>
+<value columnnumber="3">21469</value>
+<value columnnumber="4">Интересно, но как-то простенько. Но юмор понравился :-)
+</value>
+</row>
+<row rownumber="3015">
+<value columnnumber="0">2</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">2327</value>
+<value columnnumber="3">18983</value>
+<value columnnumber="4">Автор прочитал аж "350 малоизвестных и совсем неизвестных архивных документов" и накатал книгу на 600 страниц. Почтальон жжет. 
+</value>
+</row>
+<row rownumber="3016">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">169475</value>
+<value columnnumber="3">9640</value>
+<value columnnumber="4">Читаю сейчас эту серию книг, давно меня так не затягивало. Читая, убеждаюсь в том, что выход можно найти из абсолютно любой ситуации, стоит только задействовать мозг =)
+</value>
+</row>
+<row rownumber="3017">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">132797</value>
+<value columnnumber="3">14259</value>
+<value columnnumber="4">Читала с упоением.
+</value>
+</row>
+<row rownumber="3018">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">2963</value>
+<value columnnumber="3">20570</value>
+<value columnnumber="4">да-да, банальная история, как из ничего стать человеком. но мне оч понравилось =)
+</value>
+</row>
+<row rownumber="3019">
+<value columnnumber="0">0</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">170458</value>
+<value columnnumber="3">17086</value>
+<value columnnumber="4">Для Parus. История - это не взгляды, а объективные факты. Таким объективным фактом является то, что Суворов, он же Резник, предатель - и не более того. Между прочим, он сдал нескольких наших агентов за рубежом. И после этого он же белый и пушистый!!! Извините, не согласна
+</value>
+</row>
+<row rownumber="3020">
+<value columnnumber="0">3</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">172094</value>
+<value columnnumber="3">9959</value>
+<value columnnumber="4">Я очень люблю творчество Паланика, но эта книга - это не произведение это набор рассказов. Впервые я не смогла книгу этого автора дочитать до конца, думаю ему не стоило эти зарисовки издавать как отдельный подукт. Но это, собственно говоря, только мое мнение
+</value>
+</row>
+<row rownumber="3021">
+<value columnnumber="0">4</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">123041</value>
+<value columnnumber="3">20843</value>
+<value columnnumber="4">Задел на очередной сериал - вся книга посвящена расстановке действующих лиц и декораций, события практически отсутствуют. Затянуто и скучно. 
+</value>
+</row>
+<row rownumber="3022">
+<value columnnumber="0">7</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">171618</value>
+<value columnnumber="3">18380</value>
+<value columnnumber="4">На мой взгляд, слишком политично. Стругацкие в этой книге высмеивают бюрократизм и т.п. В отличие от "Понедельник...", я почти не получила никакого удовольствия от прочтения. Как говориться, ставлю 7, но имею ввиду 3
+</value>
+</row>
+<row rownumber="3023">
+<value columnnumber="0">0</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">133144</value>
+<value columnnumber="3">21426</value>
+<value columnnumber="4">Еще в процессе чтения. Идет тяжело. Восторга не вызвало.
+</value>
+</row>
+<row rownumber="3024">
+<value columnnumber="0">5</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">169384</value>
+<value columnnumber="3">3888</value>
+<value columnnumber="4">Как часто у Лукьяненко - начинается завлекательно, далее скисает. Характеры неубедительные, очень сильно накручено, и чем дальше, тем больше накручено и все менее  убедительно.  В конечном счете, каждый истинный герой  должен спасти мир - это понятно и простительно. Но когда он его спасает трижды - это уже перебор... 
+</value>
+</row>
+<row rownumber="3025">
+<value columnnumber="0">2</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">1873</value>
+<value columnnumber="3">12779</value>
+<value columnnumber="4">Какая гадость!Я не против жаргона и тюремной лексики (кому что нравится), но это просто рвотный порошок.
+</value>
+</row>
+<row rownumber="3026">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">135468</value>
+<value columnnumber="3">21598</value>
+<value columnnumber="4">Оцениваю книги по ощущению "погружения" в описываемые события, если есть затянутые места или грамматические ошибки то это отвлекает. Эту книгу оцениваю как 9-отлично. 
+\n
+</value>
+</row>
+<row rownumber="3027">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">136706</value>
+<value columnnumber="3">21595</value>
+<value columnnumber="4">я сегодня плакала, закончила читать ету песню любви,,,,господи как жаль!!!
+\nЯ не успела узнать радость чатов -жила в основном по старинке-письма, телефонние звонки и встречи,,,но не думаю что есть большая разница...быстрее, а чувства теже. Откуда он(автор) знает так достоверно что чуствует женшина, эти дикие переплетения емоций мне так знакомы...так хочется чтобы достоиные били счастливы, но в жизни зачастую ето невозможно, я думаю ей еше много предстоит менять и чувствовать боли... виват писателю!!!!
+</value>
+</row>
+<row rownumber="3028">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">168121</value>
+<value columnnumber="3">21591</value>
+<value columnnumber="4">мне понравилось,очень-очень.
+\nсначала послушала аудиокнигу,а потом перечитала.
+\nТонкий юмор и ирония
+</value>
+</row>
+<row rownumber="3029">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">865</value>
+<value columnnumber="3">21591</value>
+<value columnnumber="4">очень смешно,прям до слез!
+</value>
+</row>
+<row rownumber="3030">
+<value columnnumber="0">8</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">429</value>
+<value columnnumber="3">21614</value>
+<value columnnumber="4">Читайте всю серию. Интересно, патриотично. Не полностью, может, аутентично, но за увлекательность я отвечаю.
+</value>
+</row>
+<row rownumber="3031">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">3247</value>
+<value columnnumber="3">5212</value>
+<value columnnumber="4">"The Eyre affair" ("Дело Джен или Эйра немилосердия" в русском переводе) - роман, не побоюсь этого слова, культовый. Этот популярный эпитет, ставший в последнее время лексическим паразитом, в данном случае точно описывает статус бестселлера уроженца Уэльса Джаспера Форда, патриотично требующего печатать на обложках свою фамилию с двумя F, дабы отобразить принятую в валлийском языке передачу на письме звука "ф". Роман не просто стал британским лидером продаж, но продолжил свою жизнь в виртуальном пространстве: фэны Ффорде создали сеть сайтов, связанных с разными аспектами мира "Дела Джен", дав новую жизнь полюбившимся образам".
+\n
+\nЭто настоящая литература, умно, талантливо, изящно и без использования человеческих возможностей на гране физической мощи. ГГ просто человек, просто женщина со своими проблемами и со своими дронтами в голове (и не только), это интересное мироустройство, и натурализм в ощущении бытия персонажей. Иногда не покидает ощущение, что это какие-то твои соседи, они живут рядом с вами.
+\n
+\nЛюбовь к Джейн Эйр - это трогательно-объединяющая всех людей сила, это символ трепетного бережения человека и символ принятия другого во всей полноте его добродетелей и пороков, и все же любовь к нему такому. Потому-то она должна оставаться Джейн, и ее нельзя трогать, это святое.
+</value>
+</row>
+<row rownumber="3032">
+<value columnnumber="0">6</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">204</value>
+<value columnnumber="3">13340</value>
+<value columnnumber="4">Сценарий голливудского боевика. Оформление, язык - на тройку. Но идея страшная.
+\n
+</value>
+</row>
+<row rownumber="3033">
+<value columnnumber="0">5</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">49139</value>
+<value columnnumber="3">20781</value>
+<value columnnumber="4">А мне что-то не пошла эта книга. Даже не смогла дочитать. Такие отзывы о ней были восторженные, сдуру купила. Не мое это, однозначно.\n\nto Cherc &amp; fizzy\n\nРаз такое дело, попробую еще раз, не зря на аукцион ее не выставляла, решила, пусть полежит, как чувствовала.
+</value>
+</row>
+<row rownumber="3034">
+<value columnnumber="0">4</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">55432</value>
+<value columnnumber="3">19303</value>
+<value columnnumber="4">Что-то не накрыло...
+\nПонятное дело &#8211; модный писатель, в котором принято отыскивать некие неописуемые глубины мысли и нечеловеческую гениальность слога. И все-таки не смоглось. Домучила книгу из чисто спортивного интереса.
+\nЯ даже готова простить автору его явную неосведомленность в области современных цифровых технологий, не барское это дело &#8211; копаться в &#x00ab;байтах&#x00bb; да &#x00ab;пикселях&#x00bb;&#8230; Но что, собственно говоря, он сейчас сказал нового? Все то же, все о том же. Исповедь стареющего эротомана-интеллектуала, обильно приправленная словоизвержениями на тему избитых истин. Впрочем, с апгрейдом. В ногу со временем, так сказать! Вот оно и родилось: наскоро слепленный гибрид &#x00ab;Матрицы&#x00bb; и &#x00ab;6-го дня&#x00bb;.
+\nМастер слова, почивающий на лаврах.
+\n
+</value>
+</row>
+<row rownumber="3035">
+<value columnnumber="0">8</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">83015</value>
+<value columnnumber="3">20781</value>
+<value columnnumber="4">А мне понравилось буквально одна-две. Но одно могу сказать, что равнодушными не оставит ни одна. Меня больше всего впечатлила новелла "Происшествие". Я бы даже сказала, что ошеломила.
+</value>
+</row>
+<row rownumber="3036">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">28707</value>
+<value columnnumber="3">13727</value>
+<value columnnumber="4">Классика! Классика научной фантастики. Получила несказанное удовольствие. Давно не встречала книги, которые настолько быстро позволяют отвлечься от действительности. Книга "лучше не бывает!".
+</value>
+</row>
+<row rownumber="3037">
+<value columnnumber="0">4</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">5465</value>
+<value columnnumber="3">12779</value>
+<value columnnumber="4">Не то, чтобы бездарно, фрагменты попадаются неплохие, но тягостно и скучно.
+</value>
+</row>
+<row rownumber="3038">
+<value columnnumber="0">7</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">4830</value>
+<value columnnumber="3">21669</value>
+<value columnnumber="4">Книга содержит огромное количество притч, мудростей, но все они не связаны в одну общую историю, не объединены главной ключевой мыслью. Минирассказы-притчи отделяются друг от друга лишь абзацем, а потому при чтении получается, что скачешь с одной мысли на другую.
+\nСмысл многих идей и мыслей, которые Пауло Коэльо хотел донести до читателей, уловим и понятен, но они малозапоминаемы и даже тускнеют из-за их обилия. Читалось довольно медленно и сложно.
+</value>
+</row>
+<row rownumber="3039">
+<value columnnumber="0">10</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">170024</value>
+<value columnnumber="3">21686</value>
+<value columnnumber="4">Отличная книга - и кошмарная аннотация. Если бы не читал Хайнлайна (и "Звездный десант" в частности) - то после такой аннотации в руки бы брать не стал
+</value>
+</row>
+<row rownumber="3040">
+<value columnnumber="0">7</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">170803</value>
+<value columnnumber="3">21445</value>
+<value columnnumber="4">Легкое, приятное чтиво в жанре фэнтези.. Понравилось.
+</value>
+</row>
+<row rownumber="3041">
+<value columnnumber="0">5</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">170744</value>
+<value columnnumber="3">21614</value>
+<value columnnumber="4">Это глупость. Произведение, конечно, неплохое, однако это всего лишь фантасты. Особой глубины в нем нет, а тем, кто давно заключил сделку со своей совестью, читать и вовсе не рекомендую. Экшена не хватает)))
+</value>
+</row>
+<row rownumber="3042">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">168419</value>
+<value columnnumber="3">21614</value>
+<value columnnumber="4">Очень приятно. Это Рей.
+</value>
+</row>
+<row rownumber="3043">
+<value columnnumber="0">9</value>
+<value columnnumber="1">1</value>
+<value columnnumber="2">168248</value>
+<value columnnumber="3">21614</value>
+<value columnnumber="4">Это квинтэссенция Бредбери. Это его мир, его жизнь, и ими он с радостью делится с нами. Почитайте, не пожалеете.
+</value>
+</row>
